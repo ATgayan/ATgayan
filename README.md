@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thushitha gayan</h1>
 <h3 align="center">A Full Stack developer</h3>
+<a href='thusitha.me'>My portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atgayan&label=Profile%20views&color=0e75b6&style=flat" alt="atgayan" /> </p>
 
