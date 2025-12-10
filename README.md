@@ -5,9 +5,9 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atgayan&label=Profile%20views&color=0e75b6&style=flat" alt="atgayan" /> </p>
 
-- 🔭 I’m currently working on **Grow Mart**
+- 🔭 I'm currently working on **Grow Mart**
 
-- 🌱 I’m currently learning **Java,c,nodejs**
+- 🌱 I'm currently learning **Java,c,nodejs**
 
 - 📝 I regularly write articles on [https://worldnowledges.blogspot.com/](https://worldnowledges.blogspot.com/)
 
@@ -19,6 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/thushitha-athukorale-848765248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://medium.com/@thusitha.personal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thusitha.personal" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/fDdGAZGAi1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Thusitha_gayan" height="30" width="40" /></a>
 <a href="https://fb.com/atgayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atgayan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/slgaiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="slgaiya" height="30" width="40" /></a>
 </p>
